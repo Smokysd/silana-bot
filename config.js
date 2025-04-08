@@ -9,22 +9,22 @@ global.setting = {
  }
 
 global.owner = [
-['212717457920', 'Nour', true],
-['212605784394', 'silana', false],
+['249912125918', 'smoky', true],
+['79286359616', 'kzn', false],
 ['', '', false]
 ]
 
 global.info = {
- nomerbot: '212605784394',
- pairingNumber: '212693227969',
- nameown: 'Nour',
- nomerown: '212717457920',
+ nomerbot: '79286359616',
+ pairingNumber: '79286359616',
+ nameown: 'smoky',
+ nomerown: '249912125918',
  packname: 'sticker by ',
- author: 'Noureddine',
- namebot: 'ꜱɪʟᴀɴᴀ',
- wm: ''-'_꩜ 𝘚𝘪𝘭𝘢𝘯𝘢 𝘣𝘰𝘵 ꩜_'-'',
+ author: 'smoky',
+ namebot: 'kzn',
+ wm: ''-'_꩜ kzn bot ꩜_'-'',
  stickpack: 'Whatsapp',
- stickauth: 'ꜱɪʟᴀɴᴀ ʙᴏᴛ '
+ stickauth: 'kzn bot'
 }
 
 // Thumbnail 
@@ -51,7 +51,7 @@ global.url = {
  sgc: 'https://chat.whatsapp.com/DABxracGsi5CQMd5d1N1j7'
 }
 
-global.wait =` انتظر .. أنا أحاول تلبية طلبك ...`
+global.wait =` ابرد .. أنا أحاول تلبية طلبك ...`
 
 // Info Wait
 global.msg = {
